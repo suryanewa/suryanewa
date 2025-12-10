@@ -29,7 +29,17 @@ I love working at the intersection of **product, design, and intelligent automat
 ### **Tools & Platforms**
 [![Skills](https://skillicons.dev/icons?i=git,github,docker,supabase,figma,nix,linear)]()
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/output/github-contribution-grid-snake.svg"/>
+</p>
+
 ---
+
+# 🌱 Currently Learning
+- System architecture & large-scale AI agents  
+- Orchestrating intelligent workflows  
+- Advanced UX motion + interaction patterns  
+- Local-first systems & privacy-centric infra  
 
 # 🚀 Featured Projects
 
@@ -39,13 +49,13 @@ AI-powered features for contextual capture, unified inbox, and dynamic life grap
 
 ---
 
-### 🧵 **EveryRepo — Interactive Codebase Mapping Engine**  
+### 🕸️ **EveryRepo — Interactive Codebase Mapping Engine**  
 A curated subset of public GitHub repositories arranged in a beautiful galaxy pattern
 <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/EveryRepo.png" width="700"/>
 
 ---
 
-### 🧵 **QuickTake — AI-Powered How-To Answer Engine**  
+### ⚡ **QuickTake — AI-Powered How-To Answer Engine**  
 An exploration of generative AI search with smart summary cards from the world's best how-to videos
 <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/QuickTake.png" width="700"/>
 
@@ -57,15 +67,8 @@ Wearable IoT preventative health monitoring collars built for veterinary clinics
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🔗 Connect With Me
+### 🪩 Thanks for stopping by!  
+If you like my work, feel free to ⭐ favorite my repos or connect!
 
 <p align="center">
   <a href="https://suryanewa.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -73,24 +76,3 @@ Wearable IoT preventative health monitoring collars built for veterinary clinics
   <a href="https://github.com/suryanewa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://suryanewa.substack.com"><img src="https://img.shields.io/badge/Substack-FE671A?style=for-the-badge&logo=substack&logoColor=white"/></a>
 </p>
-
----
-
-# 🌱 Currently Learning
-- System architecture & large-scale AI agents  
-- Orchestrating intelligent workflows  
-- Advanced UX motion + interaction patterns  
-- Local-first systems & privacy-centric infra  
-
----
-
-# 🎨 Fun Facts
-- I treat product design like worldbuilding  
-- I build ambitious MVPs in 24–48 hours  
-- I love turning messy workflows into elegant systems  
-- My projects all have lore and signature aesthetics  
-
----
-
-### 🪩 Thanks for stopping by!  
-If you like my work, feel free to ⭐ favorite my repos or connect!
