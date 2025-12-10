@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me
 
 I'm Surya, a product manager, designer, and systems thinker building AI-first tools that make people feel superhuman.  
 I love working at the intersection of **product, design, and intelligent automation**, crafting systems that reduce friction and feel magical.
@@ -18,20 +18,18 @@ I love working at the intersection of **product, design, and intelligent automat
 # 🧠 Skills & Tools
 
 ### **Languages**
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,go,java,lua,c,cpp)]()
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java)]()
 
 ### **Frameworks & Libraries**
-[![Skills](https://skillicons.dev/icons?i=react,next,nodejs,express,bun,tailwind,prisma,vitest)]()
+[![Skills](https://skillicons.dev/icons?i=react,next,astro,nodejs,tailwind,threejs)]()
 
 ### **Databases & Cloud**
-[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,cloudflare,vercel,aws)]()
+[![Skills](https://skillicons.dev/icons?i=vercel,heroku,aws,azure,gcp,supabase)]()
 
 ### **Tools & Platforms**
-[![Skills](https://skillicons.dev/icons?i=git,github,docker,supabase,figma,nix,linear)]()
+[![Skills](https://skillicons.dev/icons?i=linear,git,github,docker,figma,webflow,vscode)]()
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/output/github-contribution-grid-snake.svg"/>
-</p>
+<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/output/github-contribution-grid-snake.svg"/>
 
 ---
 
