@@ -42,38 +42,38 @@ I love working at the intersection of **product, design, and intelligent automat
 # 🚀 Featured Projects
 
 ### 🔮 **LifeOS — Personalized Life Management System**  
-AI-powered features for contextual capture, unified inbox, and dynamic life graph
+AI-powered features for contextual capture, unified inbox, and dynamic life graph  
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/LifeOS.png" width="700"/>
+[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/LifeOS.png" width="700"/>](https://joinlifeos.com)
 
 ---
 
 ### 🕸️ **EveryRepo — Interactive Codebase Mapping Engine**  
-A curated subset of public GitHub repositories arranged in a beautiful galaxy pattern
+A curated subset of public GitHub repositories arranged in a beautiful galaxy pattern  
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/EveryRepo.png" width="700"/>
+[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/EveryRepo.png" width="700"/>](https://everyrepo.com)
 
 ---
 
 ### ⚡ **QuickTake — AI-Powered How-To Answer Engine**  
-An exploration of generative AI search with smart summary cards from the world's best how-to videos
+An exploration of generative AI search with smart summary cards from the world's best how-to videos  
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/QuickTake.png" width="700"/>
+[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/QuickTake.png" width="700"/>](https://quicktake.live)
 
 ---
 
 ### 🐾 **PawCare — Smart Pet Health Tracking with AI Insights**  
-Wearable IoT preventative health monitoring collars built for veterinary clinics
+Wearable IoT preventative health monitoring collars built for veterinary clinics  
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/PawCare.png" width="700"/>
+[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/PawCare.png" width="700"/>](https://pawcarehealth.vercel.app)
 
 ---
 
