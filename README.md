@@ -10,7 +10,7 @@
 
 # 🌟 About Me
 
-I'm Surya, a product manager, designer, and systems thinker building AI-first tools that make people feel superhuman.  
+I'm Surya, a product manager, designer, and developer building AI-first tools that push paradigms.  
 I love working at the intersection of **product, design, and intelligent automation**, crafting systems that reduce friction and feel magical.
 
 ---
