@@ -27,7 +27,7 @@ I love working at the intersection of **product, design, and intelligent automat
 [![Skills](https://skillicons.dev/icons?i=vercel,heroku,aws,azure,gcp,supabase)]()
 
 ### **Tools & Platforms**
-[![Skills](https://skillicons.dev/icons?i=linear,git,github,docker,figma,webflow,vscode)]()
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,figma,webflow,vscode)]()
 
 <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/output/github-contribution-grid-snake.svg"/>
 
@@ -42,25 +42,29 @@ I love working at the intersection of **product, design, and intelligent automat
 # 🚀 Featured Projects
 
 ### 🔮 **LifeOS — Personalized Life Management System**  
-AI-powered features for contextual capture, unified inbox, and dynamic life graph  
+AI-powered features for contextual capture, unified inbox, and dynamic life graph
+<br>
 <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/LifeOS.png" width="700"/>
 
 ---
 
 ### 🕸️ **EveryRepo — Interactive Codebase Mapping Engine**  
 A curated subset of public GitHub repositories arranged in a beautiful galaxy pattern
+<br>
 <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/EveryRepo.png" width="700"/>
 
 ---
 
 ### ⚡ **QuickTake — AI-Powered How-To Answer Engine**  
 An exploration of generative AI search with smart summary cards from the world's best how-to videos
+<br>
 <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/QuickTake.png" width="700"/>
 
 ---
 
 ### 🐾 **PawCare — Smart Pet Health Tracking with AI Insights**  
-Wearable IoT preventative health monitoring collars built for veterinary clinics  
+Wearable IoT preventative health monitoring collars built for veterinary clinics
+<br>
 <img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/PawCare.png" width="700"/>
 
 ---
@@ -68,9 +72,7 @@ Wearable IoT preventative health monitoring collars built for veterinary clinics
 ### 🪩 Thanks for stopping by!  
 If you like my work, feel free to ⭐ favorite my repos or connect!
 
-<p align="center">
-  <a href="https://suryanewa.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/suryanewa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/suryanewa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://suryanewa.substack.com"><img src="https://img.shields.io/badge/Substack-FE671A?style=for-the-badge&logo=substack&logoColor=white"/></a>
-</p>
+<a href="https://suryanewa.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/suryanewa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/suryanewa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://suryanewa.substack.com"><img src="https://img.shields.io/badge/Substack-FE671A?style=for-the-badge&logo=substack&logoColor=white"/></a>
