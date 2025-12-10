@@ -10,8 +10,8 @@
 
 ## 🌟 About Me
 
-I'm Surya — a product manager, designer, and systems thinker building AI-first tools that make people feel superhuman.  
-I love working at the intersection of **product, design, and intelligent automation**, crafting systems that reduce friction and feel inevitable.
+I'm Surya, a product manager, designer, and systems thinker building AI-first tools that make people feel superhuman.  
+I love working at the intersection of **product, design, and intelligent automation**, crafting systems that reduce friction and feel magical.
 
 ---
 
@@ -44,22 +44,11 @@ I love working at the intersection of **product, design, and intelligent automat
 
 ---
 
-# ⏱ Weekly Coding Stats (WakaTime)
-
-<!-- Replace YOUR_WAKATIME_USERNAME once you create an account -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical"/>
-</p>
-
----
-
 # 📈 Developer Metrics Dashboard
 
 <p align="center">
   <img src="./metrics.svg" alt="Metrics" width="100%"/>
 </p>
-
-> ⚙️ Requires setting up the `lowlighter/metrics` GitHub Action — I can generate your YAML file when you're ready.
 
 ---
 
@@ -82,14 +71,6 @@ Wearable IoT for veterinary clinics
 <img src="PAWCARE_DEMO_GIF_URL" width="700"/>
 
 <!-- Replace GIF URLs with actual links -->
-
----
-
-# 🏆 Trophy Shelf
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryanewa&theme=dracula&column=7"/>
-</p>
 
 ---
 
