@@ -31,50 +31,29 @@ I love working at the intersection of **product, design, and intelligent automat
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryanewa&show_icons=true&theme=radical&rank_icon=github"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=suryanewa&theme=radical"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanewa&layout=compact&theme=radical"/>
-</p>
-
----
-
-# 📈 Developer Metrics Dashboard
-
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics" width="100%"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🔮 **LifeOS — Personalized Life Management System**  
 AI-powered features for contextual capture, unified inbox, and dynamic life graph  
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/LifeOS.png" width="700"/>
+<img src="https://github.com/suryanewa/suryanewa/LifeOS.png" width="700"/>
 
 ---
 
 ### 🧵 **EveryRepo — Interactive Codebase Mapping Engine**  
 A curated subset of public GitHub repositories arranged in a beautiful galaxy pattern
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/EveryRepo.png" width="700"/>
+<img src="https://github.com/suryanewa/suryanewa/EveryRepo.png" width="700"/>
 
 ---
 
 ### 🧵 **QuickTake — AI-Powered How-To Answer Engine**  
 An exploration of generative AI search with smart summary cards from the world's best how-to videos
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/QuickTake.png" width="700"/>
+<img src="https://github.com/suryanewa/suryanewa/QuickTake.png" width="700"/>
 
 ---
 
 ### 🐾 **PawCare — Smart Pet Health Tracking with AI Insights**  
 Wearable IoT preventative health monitoring collars built for veterinary clinics  
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/PawCare.png" width="700"/>
+<img src="https://github.com/suryanewa/suryanewa/PawCare.png" width="700"/>
 
 ---
 
