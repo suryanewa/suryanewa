@@ -77,7 +77,7 @@ Wearable IoT preventative health monitoring collars built for veterinary clinics
 
 ---
 
-### 🪩 Thanks for stopping by!  
+# 🪩 Thanks for stopping by!  
 If you like my work, feel free to ⭐ favorite my repos or connect!
 
 <a href="https://suryanewa.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
