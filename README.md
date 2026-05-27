@@ -1,8 +1,6 @@
-## About
+## ⚡ Hey, I'm Surya
 
 NYC / Chicago / 🇳🇵 | Product Designer & Builder
-
-## Tools
 
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,7 +13,7 @@ NYC / Chicago / 🇳🇵 | Product Designer & Builder
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Portfolio
+## See My Portfolio
 
 [suryanewa.com](https://suryanewa.com)
 
@@ -30,11 +28,11 @@ NYC / Chicago / 🇳🇵 | Product Designer & Builder
 
 ## What I'm Doing
 
-- Designing and building with AI — Exploring AI as a creative partner, not replacement
-- Building faster workflows — Turning ideas into polished prototypes with less friction
-- Automating busywork — Using agents to streamline research, writing, and execution
+- Designing and building with AI - Exploring AI as a creative partner, not replacement
+- Building faster workflows - Turning ideas into polished prototypes with less friction
+- Automating busywork - Using agents to streamline research, writing, and execution
 
-## Explore Badges
+## Explore
 
 [![Follow on GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/suryanewa)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](http://codepen.io/suryanewa)
@@ -42,10 +40,10 @@ NYC / Chicago / 🇳🇵 | Product Designer & Builder
 
 ## Recognition
 
-- [Featured in Associated Press Article](https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad) about AI Oral Exams at Universities
-- Second Place Winner & Most Creative Hack — Yale YHack Hackathon
-- Best Undergraduate Team — NYU National Product Case Competition
-- First Place Winner — NYU x BrainStation Product Case Competition
+- Featured in [Associated Press Article](https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad) about AI Oral Exams at Universities
+- Second Place Winner & Most Creative Hack - Yale YHack Hackathon
+- Best Undergraduate Team - NYU National Product Case Competition
+- First Place Winner - NYU x BrainStation Product Case Competition
 
 ## Connect
 
