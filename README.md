@@ -1,86 +1,41 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Surya%20Newa&fontSize=60&fontAlignY=40&desc=Design-driven%20PM%20building%20intelligent%20systems%20that%20feel%20effortless.&descAlignY=60&animation=twinkling)
+## About
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=700&lines=Product+Manager+%7C+AI+Builder+%7C+Designer;Building+LifeOS%2C+Seamster%2C+and+AI-first+tools;Turning+ideas+into+systems+that+scale.">
-</p>
+NYC / Chicago / 🇳🇵 | Product Designer & Builder
 
----
+## Tool Badges
 
-# 🌟 About Me
+Web · TypeScript · JavaScript · React · Next.js · Astro · Tailwind · GSAP · WebGL · Python
 
-I'm Surya, a product manager, designer, and developer building AI-first tools that push paradigms.  
-I love working at the intersection of **product, design, and intelligent automation**, crafting systems that reduce friction and feel magical.
+## Portfolio
 
----
+[suryanewa.com](https://suryanewa.com)
 
-# 🧠 Skills & Tools
+## Current Projects
 
-### **Languages**
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java)]()
+**Viboard** ([viboard.xyz](https://viboard.xyz)) | Moodboarding Web App for Image Generation  
+**EveryRepo** ([everyrepo.com](https://everyrepo.com)) | Interactive Codebase Mapping Engine
 
-### **Frameworks & Libraries**
-[![Skills](https://skillicons.dev/icons?i=react,next,astro,nodejs,tailwind,threejs)]()
+## GitHub Activity
 
-### **Databases & Cloud**
-[![Skills](https://skillicons.dev/icons?i=vercel,heroku,aws,azure,gcp,supabase)]()
+<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
 
-### **Tools & Platforms**
-[![Skills](https://skillicons.dev/icons?i=git,github,docker,figma,webflow,vscode)]()
+## What I'm Doing
 
-<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/output/github-contribution-grid-snake.svg"/>
+- Designing and building with AI — Exploring AI as a creative partner, not replacement
+- Building faster workflows — Turning ideas into polished prototypes with less friction
+- Automating busywork — Using agents to streamline research, writing, and execution
 
----
+## Explore Badges
 
-# 🌱 Currently Learning
-- System architecture & large-scale AI agents  
-- Orchestrating intelligent workflows  
-- Advanced UX motion + interaction patterns  
-- Local-first systems & privacy-centric infra  
+[Follow on GitHub](https://github.com/suryanewa) · [CodePen](http://codepen.io/suryanewa) · [Substack](https://suryanewa.substack.com)
 
-# 🚀 Featured Projects
+## Recognition
 
-### 🔮 **LifeOS — Personalized Life Management System**  
-AI-powered features for contextual capture, unified inbox, and dynamic life graph  
+- [Featured in Associated Press Article](https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad) about AI Oral Exams at Universities
+- Second Place Winner & Most Creative Hack — Yale YHack Hackathon
+- Best Undergraduate Team — NYU National Product Case Competition
+- First Place Winner — NYU x BrainStation Product Case Competition
 
-<br/>
+## Connect Badges
 
-[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/LifeOS.png" width="700"/>](https://joinlifeos.com)
-
----
-
-### 🕸️ **EveryRepo — Interactive Codebase Mapping Engine**  
-A curated subset of public GitHub repositories arranged in a beautiful galaxy pattern  
-
-<br/>
-
-[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/EveryRepo.png" width="700"/>](https://everyrepo.com)
-
----
-
-### ⚡ **QuickTake — AI-Powered How-To Answer Engine**  
-An exploration of generative AI search with smart summary cards from the world's best how-to videos  
-
-<br/>
-
-[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/QuickTake.png" width="700"/>](https://quicktake.live)
-
----
-
-### 🐾 **PawCare — Smart Pet Health Tracking with AI Insights**  
-Wearable IoT preventative health monitoring collars built for veterinary clinics  
-
-<br/>
-
-[<img src="https://raw.githubusercontent.com/suryanewa/suryanewa/refs/heads/main/PawCare.png" width="700"/>](https://pawcarehealth.vercel.app)
-
----
-
-# 🪩 Thanks for stopping by!  
-If you like my work, feel free to ⭐ favorite my repos or connect!
-
-<a href="https://suryanewa.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/suryanewa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/suryanewa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://suryanewa.substack.com"><img src="https://img.shields.io/badge/Substack-FE671A?style=for-the-badge&logo=substack&logoColor=white"/></a>
+[LinkedIn](https://linkedin.com/in/suryanewa) · [X](https://x.com/suryaships) · [Instagram](https://instagram.com/surya.ships) · [Email](mailto:newa@nyu.edu)
