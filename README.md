@@ -1,6 +1,6 @@
 ## ⚡ Hey, I'm Surya
 
-NYC / Chicago / 🇳🇵 | Product Designer & Builder
+Product Designer & Builder
 
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -40,7 +40,7 @@ NYC / Chicago / 🇳🇵 | Product Designer & Builder
 
 ## Recognition
 
-- Featured in [Associated Press Article](https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad) about AI Oral Exams at Universities
+- Featured in [Associated Press Article](https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad) about AI oral exams at universities
 - Second Place Winner & Most Creative Hack - Yale YHack Hackathon
 - Best Undergraduate Team - NYU National Product Case Competition
 - First Place Winner - NYU x BrainStation Product Case Competition
